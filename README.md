@@ -5,7 +5,7 @@
 
 ## 🌟 About Me
 
-I'm a results-driven analytics leader with 5+ years of experience spanning e-commerce, finance, technology, and marketing. With a Master’s in Business Analytics from RIT, I blend technical skills in R, Python, SQL, Tableau, and SAP ABAP with strategic program management. My track record includes optimizing operations, driving revenue growth, and delivering data-driven solutions that make a measurable impact.
+I'm a results-driven analytics leader with 4+ years of experience spanning e-commerce, finance, technology, and marketing. With a Master’s in Business Analytics from RIT, I blend technical skills in R, Python, SQL, Tableau, and SAP ABAP with strategic program management. My track record includes optimizing operations, driving revenue growth, and delivering data-driven solutions that make a measurable impact.
 
 
 ## 🚀 What I Do
