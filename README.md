@@ -101,3 +101,10 @@ Personal projects targeting Software Developer roles — REST APIs, Clean Archit
 - [dotnet-inventory-api](https://github.com/shreyapatil9480/dotnet-inventory-api) — Clean Architecture, SOLID, MediatR CQRS
 - [playwright-dotnet-test-suite](https://github.com/shreyapatil9480/playwright-dotnet-test-suite) — Playwright E2E, Page Object Model
 - [specflow-bdd-demo](https://github.com/shreyapatil9480/specflow-bdd-demo) — SpecFlow BDD acceptance tests
+
+## 📊 Analytics ML Portfolio (Python)
+
+Flagship projects with live demos, pytest CI, and containerized training:
+
+- [**business-analysis-project** — Live Streamlit Demo](https://business-analysis-project-ouxuxizkmi549de94wd5pg.streamlit.app/) — interactive inference dashboard ([repo](https://github.com/shreyapatil9480/business-analysis-project))
+- [operations-performance-analytics](https://github.com/shreyapatil9480/operations-performance-analytics) — Dockerized training pipeline + scheduled GitHub Actions retraining
