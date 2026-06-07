@@ -100,11 +100,13 @@ Personal projects targeting Software Developer roles — REST APIs, Clean Archit
 - [dotnet-bug-tracker](https://github.com/shreyapatil9480/dotnet-bug-tracker) — ASP.NET Core API, xUnit, GitHub Actions CI
 - [dotnet-inventory-api](https://github.com/shreyapatil9480/dotnet-inventory-api) — Clean Architecture, SOLID, MediatR CQRS
 - [playwright-dotnet-test-suite](https://github.com/shreyapatil9480/playwright-dotnet-test-suite) — Playwright E2E, Page Object Model
-- [specflow-bdd-demo](https://github.com/shreyapatil9480/specflow-bdd-demo) — SpecFlow BDD acceptance tests
+- [specflow-bdd-demo](https://github.com/shreyapatil9480/specflow-bdd-demo) — SpecFlow BDD acceptance tests (bdd.yml CI badge)
 
 ## 📊 Analytics ML Portfolio (Python)
 
 Flagship projects with live demos, pytest CI, and containerized training:
 
 - [**business-analysis-project** — Live Streamlit Demo](https://business-analysis-project-ouxuxizkmi549de94wd5pg.streamlit.app/) — interactive inference dashboard ([repo](https://github.com/shreyapatil9480/business-analysis-project))
+- [**sales-prediction-analytics-project** — Live Streamlit Demo](https://sales-prediction-analytics-project-agmb7kf2vcefuahz7ntepj.streamlit.app/) — sales inference dashboard ([repo](https://github.com/shreyapatil9480/sales-prediction-analytics-project))
+- [**project-management-analytics-portfolio** — Live Streamlit Demo](https://project-management-analytics-portfolio-dibeart8u2vuibpyjbcjc3.streamlit.app/) — portfolio analytics dashboard ([repo](https://github.com/shreyapatil9480/project-management-analytics-portfolio))
 - [operations-performance-analytics](https://github.com/shreyapatil9480/operations-performance-analytics) — Dockerized training pipeline + scheduled GitHub Actions retraining
